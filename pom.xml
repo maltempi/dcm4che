@@ -176,7 +176,7 @@
     <repository>
       <id>www.dcm4che.org</id>
       <name>dcm4che Repository</name>
-      <url>http://maven.dcm4che.org</url>
+      <url>https://www.dcm4che.org/maven2</url>
     </repository>
     <repository>
       <id>nroduit-mvn-repo-master</id>
@@ -184,7 +184,7 @@
     </repository>
     <repository>
       <id>jboss</id>
-      <url>http://repository.jboss.org/nexus/content/groups/public</url>
+      <url>https://repository.jboss.org/nexus/content/groups/public</url>
     </repository>
   </repositories>
   <dependencyManagement>
